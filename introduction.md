@@ -246,13 +246,6 @@ print(x)
     Hello, World
     
 
-### Lambda
-
-
-```python
-
-```
-
 ### Generator expressions
 
 
@@ -429,7 +422,7 @@ plt.plot(x, y)
 
 
 
-![png](output_48_1.png)
+![png](output_46_1.png)
 
 
 
